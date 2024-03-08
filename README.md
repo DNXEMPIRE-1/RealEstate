@@ -39,7 +39,7 @@ To get started with HomeTopia locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   https://github.com/gateremark/hometopia.git
+   https://github.com/DNX EMPIRE/hometopia.git
    ```
    
 2. Install the dependencies:
