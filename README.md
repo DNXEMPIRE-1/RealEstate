@@ -1,5 +1,4 @@
 # HomeTopia
-![GitHub deployments](https://img.shields.io/github/deployments/gateremark/hometopia/production?style=flat&logo=vercel&logoColor=white&label=vercel)
 
 Welcome to HomeTopia, a powerful web platform for buying, selling, and renting properties. Find your dream home or perfect investment property with ease.
 <div align="center">
@@ -75,7 +74,7 @@ To get started with HomeTopia locally, follow these steps:
 
 ## Deployment
 HomeTopia is deployed using Vercel. Any changes pushed to the main branch will trigger an automatic deployment.
-You can visit the live version of HomeTopia at https://hometopia.vercel.app/.
+You can visit the live version of HomeTopia 
 
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
