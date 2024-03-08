@@ -2,9 +2,9 @@
 
 Welcome to HomeTopia, a powerful web platform for buying, selling, and renting properties. Find your dream home or perfect investment property with ease.
 <div align="center">
-<a href="https://hometopia.vercel.app/">
+<a href="https://real-estate-sepia-theta.vercel.app/">
    
-![HomeTopia](https://gatere.vercel.app/img/projects/projects_post_8.png)
+![HomeTopia](/hometopia.png)
 
 </a>
 </div>
@@ -74,7 +74,7 @@ To get started with HomeTopia locally, follow these steps:
 
 ## Deployment
 HomeTopia is deployed using Vercel. Any changes pushed to the main branch will trigger an automatic deployment.
-You can visit the live version of HomeTopia 
+You can visit the live version of HomeTopia at https://real-estate-sepia-theta.vercel.app/
 
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
